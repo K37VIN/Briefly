@@ -1,0 +1,5 @@
+langchain_groq
+gradio
+reportlab
+python-dotenv
+langchain
