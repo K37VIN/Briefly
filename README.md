@@ -25,3 +25,7 @@ To run the application,run the following command:
 ```
 python app.py
 ```
+
+The app looks something like this:
+
+![Screenshot 2025-06-08 191745](https://github.com/user-attachments/assets/cca2f864-3cc7-4131-ad78-25bfa17792bb)
